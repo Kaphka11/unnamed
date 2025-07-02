@@ -1,5 +1,5 @@
 {
-  "greeting": "Halo!",
+  "Halo": "Halo! $username",
   "farewell": "Sampai jumpa!",
   "questions": {
     "siapa kamu": "Saya bot Discord buatanmu.",
