@@ -1,0 +1,8 @@
+{
+  "greeting": "Halo!",
+  "farewell": "Sampai jumpa!",
+  "questions": {
+    "siapa kamu": "Saya bot Discord buatanmu.",
+    "apa itu API": "API adalah antarmuka pemrograman aplikasi."
+  }
+}
